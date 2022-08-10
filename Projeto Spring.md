@@ -8,7 +8,7 @@ Plataforma de cursos [Digital Innovation One](https://www.dio.me/).
 
 Orientadora: [Camila Cavalcante](https://github.com/cami-la).
 
-#### Anna Paula Marques :happy:
+#### Anna Paula Marques 😎
 
 
 
